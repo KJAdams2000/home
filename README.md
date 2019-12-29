@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kevin Adams Homepage
 
 You can use the [editor on GitHub](https://github.com/KJAdams2000/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
